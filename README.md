@@ -1,10 +1,10 @@
-# Welcome to the CyberCity - Glowing Street Animation Repository! 🌆✨
+# Welcome to the Cybercity - Glowing Street Animation Repository! 🌆✨
 
 🔙 _Back to my Blender projects main hub_: [Fran's Blender Projects Hub](https://github.com/ux-fran/blender-projects-main-hub-repo)
 
 _Project Status_: **Finished** 🎉  
-_Repository_: **[CyberCity Glowing Street Repository](https://github.com/ux-fran/cybercity-glowing-street-repo)**  
-_Project Progress_: **[CyberCity Progress](https://github.com/users/ux-fran/projects/69)**  
+_Repository_: **[Cybercity Glowing Street Repository](https://github.com/ux-fran/cybercity-glowing-street-repo)**  
+_Project Progress_: **[Cybercity Progress](https://github.com/users/ux-fran/projects/69)**  
 
 This repository documents the creation of my first **CyberCity Animation** in Blender—a neon-lit, futuristic cityscape inspired by cyberpunk aesthetics. This project focused on modeling detailed urban environments, creating atmospheric lighting, and crafting a dynamic animation. 🎥
 
@@ -12,7 +12,7 @@ This repository documents the creation of my first **CyberCity Animation** in Bl
 
 ## 🖼️ Final Screenshots
 
-Here’s a preview of the **CyberCity Animation** project!
+Here’s a preview of the **Cybercity Animation** project!
 
 ![CyberCity Aerial Vie](https://github.com/user-attachments/assets/d0c134d5-8ec3-48b1-820b-1d0f1ec9cdb2)
 
