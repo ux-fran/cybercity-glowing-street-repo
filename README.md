@@ -8,6 +8,9 @@ _Project Progress_: **[Cybercity Progress](https://github.com/users/ux-fran/proj
 
 This repository documents the creation of my first **CyberCity Animation** in Blender—a neon-lit, futuristic cityscape inspired by cyberpunk aesthetics. This project focused on modeling detailed urban environments, creating atmospheric lighting, and crafting a dynamic animation. 🎥
 
+## ❓ Questions?
+If you have any questions about this project, feel free to ask them in the [Q&A Discussion](https://github.com/ux-fran/cybercity-glowing-street-repo/discussions)! 💬
+
 ---
 
 ## 🖼️ Final Screenshots
